@@ -62,12 +62,12 @@ nav > a.link-nav {
     text-decoration: none;
     color: var(--cor1);
     font-weight: bold;
+    transition-duration: 0.5s;
 }
 
 nav > a.link-nav:hover {
     background-color: #235337;
     color: #65ce94;
-    transition-duration: 0.5s;
 }
 
 main#conteudo-principal {
