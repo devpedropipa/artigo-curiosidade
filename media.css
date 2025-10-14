@@ -1,0 +1,17 @@
+/* Celulares */
+@media (max-width: 428px) {
+    aside#conteudo-extra > ul {
+        columns: auto;
+    }
+}
+
+@media (max-width: 393px) {
+    section#secao1 > h1 {
+        font-size: 26px;
+    }
+
+    nav > a.link-nav {
+        padding: 8px;
+        font-size: 14px;
+    }
+}
