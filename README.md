@@ -1,6 +1,6 @@
 # Artigo de curiosidade
 
-É uma página web responsiva hospedada no site fictício chamado **Curiosidades de Tecnologia**. O artigo fala sobre o **Bugdroid** (mascote do Android) explicando a sua história e curiosidades sobre ele.
+É uma página web responsiva hospedada no site fictício chamado **Curiosidades de Tecnologia**. O artigo fala sobre o **Bugdroid** (mascote do Android), explicando a sua história e curiosidades sobre ele.
 
 ### Tecnologias utilizadas
 
